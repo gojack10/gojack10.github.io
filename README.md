@@ -4,4 +4,4 @@ This repository contains Ben's baseball coaching notes. Below you'll find a list
 
 Session Notes:
 
-[Ben Session Notes 6-23-24](Ben%20Session%20Notes%206-23-24.md)
+- [Ben Session Notes 6-23-24](Ben_Session_Notes_6-23-24.html)
