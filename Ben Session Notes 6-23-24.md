@@ -22,7 +22,10 @@ This is the deepest part this pitcher (Jacob deGrom) gets into when he throws, c
 
 Notice how his throwing goes long like Ben but also gets into that deep spiral position before throwing:
 
-![Jacob deGrom Throwing Motion](/Media/mKX23hYVrC8c74PA.mp4)
+<video width="100%" controls>
+  <source src="/Media/mKX23hYVrC8c74PA.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Now, let's compare to Ben:
 
@@ -36,7 +39,10 @@ The glove hand is a very important and underrated aspect of a pitcher's motion. 
 
 Yoshinobu Yamamoto was up nearly 2 mph one day, averaging 97+ mph. He reportedly made a mechanical tweak prior to this start. Check the glove arm before (left) and after (right).
 
-![Yamamoto Glove Arm Comparison](/Media/beiVkcwqSqcGK6Uu.mp4)
+<video width="100%" controls>
+  <source src="/Media/beiVkcwqSqcGK6Uu.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 The glove arm can function to increase torso rotational velocity, similar to how a figure skater will spin faster when they bring their arms closer to the center at the right time.
 
@@ -44,13 +50,19 @@ The glove arm can function to increase torso rotational velocity, similar to how
 
 We not only want to get the glove arm in the same plane of rotation as the trunk, but also to delay this unwinding of the glove arm until the right time, which functions to help hold the trunk closed as long as possible in the delivery.
 
-![Glove Arm Demonstration](/Media/IPrEg19kGnT3w-Z_.mp4)
+<video width="100%" controls>
+  <source src="/Media/IPrEg19kGnT3w-Z_.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Holding this exaggerated glove side internal rotation torque is a common way to delay the front side and lead to a more powerful unload from the torso when it does finally get pulled through. If the front side (aka torso) opens too early, it could lead to cutting the ball and velocity going down.
 
 Compare the video above of Aroldis Chapman (maxxed out at 105 mph) who is a great example of having a great glove side to this:
 
-![Comparison Video](/Media/New%20project_540_960.mp4)
+<video width="100%" controls>
+  <source src="/Media/New%20project_540_960.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Don't worry! I also had a bad glove side, it's a pretty easy fix.
 
@@ -61,7 +73,10 @@ Two simple cues that can address this issue are:
 
 Video explanation:
 
-![Glove Side Fix Explanation](/Media/eiQs-t74pAE-jTx5.mp4)
+<video width="100%" controls>
+  <source src="/Media/eiQs-t74pAE-jTx5.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Cutting the Ball
 
